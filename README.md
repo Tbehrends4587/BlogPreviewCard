@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Tbehrends4587/BlogPreviewCard)
-- Live Site URL: [Add live site URL here](https://tbehrends4587.github.io/BlogPreviewCard/)
+- Solution URL: [Solution](https://github.com/Tbehrends4587/BlogPreviewCard)
+- Live Site URL: [live site](https://tbehrends4587.github.io/BlogPreviewCard/)
 
 ## My process
 
@@ -56,8 +56,8 @@ I thought I did good with html and css classes but I found myself going back and
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Tbehrends4587)
-- Twitter - [@yourusername](https://www.twitter.com/doggielover234)
+- Frontend Mentor - [@Tbehrends4587](https://www.frontendmentor.io/profile/Tbehrends4587)
+- Twitter - [@doggielover234](https://www.twitter.com/doggielover234)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
