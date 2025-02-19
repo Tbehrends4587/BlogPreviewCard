@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Tbehrends4587/BlogPreviewCard)
+- Live Site URL: [Add live site URL here](https://tbehrends4587.github.io/BlogPreviewCard/)
 
 ## My process
 
@@ -43,25 +43,12 @@ I like to start with writing HTML first, then add CSS. Then possibly go back and
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
+I learned how to use box-sizing: border-box. This is something I did not know before and it is a very useful property. I did not know that messing with padding does not count towards the overall width of the box so it is useful to get actual sizes for stuff. 
 
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I thought I did good with html and css classes but I found myself going back and messing with the names. I think more practice is needed in that regard but I am sure it comes with time. I also thing being able to use less css is a good thing to work on. I do not want to keep repeating myself and adding unnecessary code.
 
 ### Useful resources
 
@@ -69,13 +56,11 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Tbehrends4587)
 - Twitter - [@yourusername](https://www.twitter.com/doggielover234)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+I would like to thank myself for trying to learn more and not giving up.
